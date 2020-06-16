@@ -1,4 +1,12 @@
-<div class="row tabulation mt-4 ftco-animate">
+<div class="container">
+    		<div class="row justify-content-center mb-5">
+              <div class="col-md-8 text-center heading-section ftco-animate">
+          		<span class="subheading">Services</span>
+            	<h2 class="mb-4">Why Choose Us?</h2>
+            	<p>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
+               </div>
+        	</div>
+  			<div class="row tabulation mt-4 ftco-animate">
   				<div class="col-md-4" id="ser">
 						<ul class="nav nav-pills nav-fill d-md-flex d-block flex-column">
 						  <li class="nav-item text-left">
@@ -56,3 +64,4 @@
 						</div>
 					</div>
 				</div>
+    	</div>
