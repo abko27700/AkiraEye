@@ -13,7 +13,7 @@
 								<div class="img align-self-stretch" style="background-image: url(images/akdc1.jpeg);"></div>
 							</div>
 							<div class="text pt-3 px-3 pb-4 text-center">
-								<h3>Dr. Haripriya</h3>
+								<h3>Dr. XXXXXX</h3>
 								<span class="position mb-2">Doctor</span>
 								<div class="faded">
 									<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
