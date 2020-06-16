@@ -117,6 +117,7 @@
 								<span class="position mb-2">Front Desk Coordinator</span>
 								<div class="faded">
 									<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
+									
 	              				</div>
 							</div>
 						</div>
@@ -131,6 +132,7 @@
 								<span class="position mb-2">Front Desk Coordinator</span>
 								<div class="faded">
 									<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
+									
 	              				</div>
 							</div>
 						</div>
@@ -145,6 +147,7 @@
 								<span class="position mb-2">Front Desk Coordinator</span>
 								<div class="faded">
 									<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
+									
 	              				</div>
 							</div>
 						</div>
