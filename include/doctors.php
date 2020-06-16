@@ -13,16 +13,11 @@
 								<div class="img align-self-stretch" style="background-image: url(images/akdc1.jpeg);"></div>
 							</div>
 							<div class="text pt-3 px-3 pb-4 text-center">
-								<h3>Lloyd Wilson</h3>
-								<span class="position mb-2">Chief Medical Officer</span>
+								<h3>Dr. Haripriya</h3>
+								<span class="position mb-2">Doctor</span>
 								<div class="faded">
 									<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
-									<ul class="ftco-social text-center">
-		                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
-		                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
-		                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-google"></span></a></li>
-		                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
-		              </ul>
+									
 	              </div>
 							</div>
 						</div>
@@ -33,16 +28,11 @@
 								<div class="img align-self-stretch" style="background-image: url(images/ak1.jpeg);"></div>
 							</div>
 							<div class="text pt-3 px-3 pb-4 text-center">
-								<h3>Rachel Parker</h3>
+								<h3>Dr. N Prabhakar </h3>
 								<span class="position mb-2">Chiropractor</span>
 								<div class="faded">
 									<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
-									<ul class="ftco-social text-center">
-		                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
-		                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
-		                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-google"></span></a></li>
-		                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
-		              </ul>
+									
 	              </div>
 							</div>
 						</div>
@@ -53,16 +43,11 @@
 								<div class="img align-self-stretch" style="background-image: url(images/ak5.jpeg);"></div>
 							</div>
 							<div class="text pt-3 px-3 pb-4 text-center">
-								<h3>Ian Smith</h3>
-								<span class="position mb-2">Clinical Chiropractic Assistant</span>
+								<h3>Dr. Indrajit Kothari</h3>
+								<span class="position mb-2">Doctor</span>
 								<div class="faded">
 									<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
-									<ul class="ftco-social text-center">
-		                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
-		                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
-		                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-google"></span></a></li>
-		                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
-		              </ul>
+									
 	              </div>
 							</div>
 						</div>
@@ -77,12 +62,7 @@
 								<span class="position mb-2">Licensed Massage Therapist</span>
 								<div class="faded">
 									<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
-									<ul class="ftco-social text-center">
-		                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
-		                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
-		                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-google"></span></a></li>
-		                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
-		              </ul>
+									
 	              </div>
 							</div>
 						</div>
@@ -93,16 +73,11 @@
 								<div class="img align-self-stretch" style="background-image: url(images/ak3.jpeg);"></div>
 							</div>
 							<div class="text pt-3 px-3 pb-4 text-center">
-								<h3>Lloyd Wilson</h3>
-								<span class="position mb-2">Front Desk Coordinator</span>
+								<h3>Dr. Haripriya</h3>
+								<span class="position mb-2">Doctor</span>
 								<div class="faded">
 									<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
-									<ul class="ftco-social text-center">
-		                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
-		                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
-		                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-google"></span></a></li>
-		                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
-		              </ul>
+									
 	              </div>
 							</div>
 						</div>
@@ -128,8 +103,8 @@
 								<div class="img align-self-stretch" style="background-image: url(images/akdc2.jpeg);"></div>
 							</div>
 							<div class="text pt-3 px-3 pb-4 text-center">
-								<h3>Lloyd Wilson</h3>
-								<span class="position mb-2">Front Desk Coordinator</span>
+								<h3>Dr. Navakanth B</h3>
+								<span class="position mb-2">Doctor</span>
 								<div class="faded">
 									<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
 									
@@ -143,8 +118,8 @@
 								<div class="img align-self-stretch" style="background-image: url(images/akdc3.jpeg);"></div>
 							</div>
 							<div class="text pt-3 px-3 pb-4 text-center">
-								<h3>Lloyd Wilson</h3>
-								<span class="position mb-2">Front Desk Coordinator</span>
+								<h3>Dr. Sarita S</h3>
+								<span class="position mb-2">Doctor</span>
 								<div class="faded">
 									<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
 									
