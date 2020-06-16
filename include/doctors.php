@@ -58,8 +58,8 @@
 								<div class="img align-self-stretch" style="background-image: url(images/ak4.jpeg);"></div>
 							</div>
 							<div class="text pt-3 px-3 pb-4 text-center">
-								<h3>Alicia Henderson</h3>
-								<span class="position mb-2">Licensed Massage Therapist</span>
+								<h3>Dr xxxx</h3>
+								<span class="position mb-2">Doctor</span>
 								<div class="faded">
 									<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
 									
@@ -88,8 +88,8 @@
 								<div class="img align-self-stretch" style="background-image: url(images/ak2.jpeg);"></div>
 							</div>
 							<div class="text pt-3 px-3 pb-4 text-center">
-								<h3>Lloyd Wilson</h3>
-								<span class="position mb-2">Front Desk Coordinator</span>
+								<h3>XXXXX</h3>
+								<span class="position mb-2">Doctor</span>
 								<div class="faded">
 									<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
 									
